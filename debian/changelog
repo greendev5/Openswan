@@ -1,6 +1,6 @@
-openswan (1:2.6.38-1xelerance1+wasel) trusty; urgency=low
+openswan (1:2.6.38-1xelerance1+wasel) precise; urgency=low
 
-  * Update to IPSECBASEVERSION
+  * Update to 2.6.38
 
   The real changelog is in /usr/share/doc/openswan/changelog.gz
 
